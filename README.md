@@ -1,2 +1,3 @@
-# time_diff
-Takes two times and returns the difference.
+# Time Diff
+
+Takes two times and returns the difference, taking into account one break hour.
